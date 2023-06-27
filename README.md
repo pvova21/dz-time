@@ -1,4 +1,10 @@
-# Getting Started with Create React App
+# dz-time
+
+[![Build status](https://ci.appveyor.com/api/projects/status/ehxwstif3w3nfj7i?svg=true)](https://ci.appveyor.com/project/pvova21/dz-time)
+
+## [GitHub Pages](https://pvova21.github.io/dz-time/)
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
