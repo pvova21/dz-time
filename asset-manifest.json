@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/dz-time/static/css/main.ae74bf7f.css",
+    "main.js": "/dz-time/static/js/main.30c276da.js",
+    "static/js/787.0224ca5e.chunk.js": "/dz-time/static/js/787.0224ca5e.chunk.js",
+    "index.html": "/dz-time/index.html",
+    "main.ae74bf7f.css.map": "/dz-time/static/css/main.ae74bf7f.css.map",
+    "main.30c276da.js.map": "/dz-time/static/js/main.30c276da.js.map",
+    "787.0224ca5e.chunk.js.map": "/dz-time/static/js/787.0224ca5e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ae74bf7f.css",
+    "static/js/main.30c276da.js"
+  ]
+}
